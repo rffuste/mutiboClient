@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mutibo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="AppName">Mutibo</string>
+    <string name="textPlay">Play</string>
+    <string name="textCreateSet">Create new Set</string>
+    <string name="title_activity_new_set1">newSet1Activity</string>
+    <string name="title_activity_new_set2">newSet2Activity</string>
+    <string name="textNewSet1">Enter movies titles</string>
+    <string name="textMovie1">Movie 1</string>
+    <string name="textMovie2">Movie 2</string>
+    <string name="textMovie3">Movie 3</string>
+    <string name="textMovie4">Movie 4</string>
+    <string name="textNext">Next</string>
+    <string name="textNewSet2">Select the odd movie</string>
+    <string name="textAnswerSet">Say why this is the odd movie</string>
+    <string name="textAddSet">Add Set</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="textPoints">Points</string>
+    <string name="textErrors">Errors</string>
+    <string name="textPlayChoose">Which one is different from the others?</string>
+    <string name="textPlaySubmit">Submit</string>
+    <string name="textRating">Rate this Set</string>
+    <string name="stopMusic">Stop music</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="textGameOver">Game Over</string>
+    <string name="textFinalPoints">You have won</string>
+    <string name="textEndGame">End Game</string>
+
+</resources>
